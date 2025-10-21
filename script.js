@@ -1,4 +1,4 @@
 const tombolini = document.getElementById('sipButton');
 tombolini.addEventListener('click', function() {
-  alert('makasih bang');
+  alert('halo manissss lagi apaa');
 });
